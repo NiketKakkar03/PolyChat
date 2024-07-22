@@ -1,6 +1,9 @@
 # CrackBot
 This is a Next.js project bootstrapped with create-next-app built as a project idea under the guidance of Buildspace.
 
+Project Aim
+The main aim of CrackBot is to accumulate different AI tool sources specifically for students to use, making it a powerhouse of AI support. This project serves as a comprehensive resource hub, helping students easily access and utilize various AI tools to enhance their learning and projects.
+
 Getting Started
 First, run the development server:
 
