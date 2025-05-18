@@ -1,4 +1,4 @@
-# CrackBot
+# PolyChat
 This is a Next.js project bootstrapped with create-next-app built as a project idea under the guidance of Buildspace.
 
 # Project Aim
